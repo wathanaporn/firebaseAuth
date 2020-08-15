@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "inquirer25-b9587": {
+      "hosting": {
+        "firebaseAuth": [
+          "inquirer25-b9587"
+        ]
+      }
+    }
+  }
+}
